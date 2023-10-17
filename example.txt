@@ -3,3 +3,5 @@ This is an example
 Edit the second line.
 
 Add a third line.
+
+Add a fourth line.
