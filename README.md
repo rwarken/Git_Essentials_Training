@@ -18,3 +18,5 @@ This is an example.
 - Add the file to the staging area.
 git add example.txt
 
+- Commit the changes to the local repository providing a good message for the action.
+commit -m "Add initial file."
